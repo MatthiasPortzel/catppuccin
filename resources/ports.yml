@@ -1048,7 +1048,7 @@ ports:
     platform: [macos]
     color: green
     icon: iterm2
-    current-maintainers: []
+    current-maintainers: [*MatthiasPortzel]
     past-maintainers: [*VictorTennekes, *nekowinston]
   java:
     name: Java
